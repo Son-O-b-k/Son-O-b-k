@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Open%20to-Consulting%20%26%20Collab-2ea043?style=flat-square" alt="open to" />
 </p>
 
-<a href="https://son-obk.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-successon.dev-0d1117?style=for-the-badge&logo=firefox-browser&logoColor=f5b700" /></a>
+<a href="https://son-obk.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-son-obk.netlify.app-0d1117?style=for-the-badge&logo=firefox-browser&logoColor=f5b700" /></a>
 <a href="mailto:sonobktech@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20me-0d1117?style=for-the-badge&logo=gmail&logoColor=f5b700" /></a>
 <a href="https://www.linkedin.com/in/success-onyegbanokwu-3a695b200/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=f5b700" /></a>
 
@@ -70,7 +70,7 @@ const successON: PlatformEngineer = {
 ### 📫 Reach Me
 
 - **Email:** [sonobktech@gmail.com](mailto:sonobktech@gmail.com)
-- **Portfolio:** [successon.dev](https://successon.dev/)
+- **Portfolio:** [successon.dev](https://son-obk.netlify.app/)
 - **LinkedIn:** [/in/success-onyegbanokwu](https://www.linkedin.com/in/success-onyegbanokwu-3a695b200/)
 - **Resume:** [Download PDF](https://res.cloudinary.com/djewdwjfh/image/upload/v1783268446/my-resume-latest-2026_xbzwh1.pdf)
 
