@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:f5b700&height=200&section=header&text=Success%20.O.N&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=...it's%20all%20about%20the%20layer%20underneath&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D8FF,30:1f6feb,65:8957e5,100:e0457b&height=200&section=header&text=Success%20.O.N&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=...it's%20all%20about%20the%20layer%20underneath&descAlignY=55&descSize=18" width="100%" />
 
 ### `Platform & Cloud Engineer`
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=Son-O-b-k&label=Profile%20Views&color=f5b700&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/badge/Focus-Developer%20Platforms%20%2B%20Infra-1f6feb?style=flat-square" alt="focus" />
-<img src="https://img.shields.io/badge/Open%20to-Consulting%20%26%20Collab-2ea043?style=flat-square" alt="open to" />
+<img src="https://komarev.com/ghpvc/?username=Son-O-b-k&label=Profile%20Views&color=00D8FF&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/badge/Focus-Developer%20Platforms%20%2B%20Infra-8957e5?style=for-the-badge" alt="focus" />
+<img src="https://img.shields.io/badge/Open%20to-Consulting%20%26%20Collab-2ea043?style=for-the-badge" alt="open to" />
 </p>
 
-<a href="https://son-obk.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-son-obk.netlify.app-0d1117?style=for-the-badge&logo=firefox-browser&logoColor=f5b700" /></a>
-<a href="mailto:sonobktech@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20me-0d1117?style=for-the-badge&logo=gmail&logoColor=f5b700" /></a>
-<a href="https://www.linkedin.com/in/success-onyegbanokwu-3a695b200/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=f5b700" /></a>
+<a href="https://son-obk.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-son--obk.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="mailto:sonobktech@gmail.com"><img src="https://img.shields.io/badge/Email-sonobktech-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/success-onyegbanokwu-3a695b200/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
@@ -70,7 +70,7 @@ const successON: PlatformEngineer = {
 ### 📫 Reach Me
 
 - **Email:** [sonobktech@gmail.com](mailto:sonobktech@gmail.com)
-- **Portfolio:** [successon.dev](https://son-obk.netlify.app/)
+- **Portfolio:** [son-obk.netlify.app](https://son-obk.netlify.app/)
 - **LinkedIn:** [/in/success-onyegbanokwu](https://www.linkedin.com/in/success-onyegbanokwu-3a695b200/)
 - **Resume:** [Download PDF](https://res.cloudinary.com/djewdwjfh/image/upload/v1783268446/my-resume-latest-2026_xbzwh1.pdf)
 
@@ -140,7 +140,7 @@ const successON: PlatformEngineer = {
 | **[Coinskro](https://coinskro.com/)** | Crypto trading with built-in escrow holding funds until both sides settle | `Node.js` `Crypto` |
 
 <div align="center">
-<a href="https://successon.dev/"><b>→ See the full portfolio</b></a>
+<a href="https://son-obk.netlify.app/"><b>→ See the full portfolio</b></a>
 </div>
 
 ---
@@ -149,10 +149,10 @@ const successON: PlatformEngineer = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Son-O-b-k&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f5b700&icon_color=1f6feb" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Son-O-b-k&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f5b700" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Son-O-b-k&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D8FF&icon_color=00C7B7&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Son-O-b-k&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D8FF&text_color=c9d1d9" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Son-O-b-k&theme=github-dark&hide_border=true&background=0d1117&ring=f5b700&fire=f5b700&currStreakLabel=f5b700" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Son-O-b-k&theme=github-dark&hide_border=true&background=0d1117&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF" />
 
 </div>
 
@@ -164,6 +164,6 @@ const successON: PlatformEngineer = {
 
 **Have infrastructure that needs building? [Let's talk.](mailto:sonobktech@gmail.com)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5b700,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0457b,35:8957e5,70:1f6feb,100:00D8FF&height=120&section=footer" width="100%" />
 
 </div>
